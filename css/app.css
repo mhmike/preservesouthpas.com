@@ -3,6 +3,10 @@
 	height: 30px;
 }
 
+.video {
+	margin-top: 60px;
+}
+
 .video-spacer {
 	height: 40px;
 }
@@ -22,5 +26,16 @@
 }
 
 .main-text {
-	text-align: center;
+	text-align: justify;
+	padding-top: 60px;
+	font-size: 18px;
+}
+
+.house-image {
+	width: 100%;
+}
+
+.top-bar-title {
+	font-size: 36px;
+	/* font-weight: 6	00; */
 }
